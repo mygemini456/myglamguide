@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251263842815",
+    "project_id": "glamguide-232c7",
+    "storage_bucket": "glamguide-232c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251263842815:android:615314352f2a6b20a60fca",
+        "android_client_info": {
+          "package_name": "com.example.glamguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThBiUBHXRBbFlcSEVSA7qhkX6IyQer9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251263842815:android:b5ac7f64470e0fa7a60fca",
+        "android_client_info": {
+          "package_name": "io.flutter.plugins.firebase.core"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThBiUBHXRBbFlcSEVSA7qhkX6IyQer9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
