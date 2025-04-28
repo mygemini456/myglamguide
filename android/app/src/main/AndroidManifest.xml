@@ -6,8 +6,7 @@
     <uses-feature android:name="android.hardware.camera" android:required="false"/>
 
     <application
-        android:label="glamguide"
-        android:name=".MainApplication"
+        android:label="Glam Guide"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
